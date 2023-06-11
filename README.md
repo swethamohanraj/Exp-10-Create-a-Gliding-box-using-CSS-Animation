@@ -19,7 +19,7 @@ To create a Gliding box animation using CSS animation.
 6. Test the gliding box animation in different web browsers to ensure compatibility.
 
 ## CODE:
-
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -129,7 +129,7 @@ To create a Gliding box animation using CSS animation.
     </div>
 </body>
 </html>
-
+```
 
 ## OUTPUT:
 ### Gliding Animation:
